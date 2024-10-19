@@ -1,0 +1,5 @@
+/home/putra/krai/HAL_projects/Bluepill-HAL/CMakeFiles/Bluepill-HAL.dir
+/home/putra/krai/HAL_projects/Bluepill-HAL/CMakeFiles/edit_cache.dir
+/home/putra/krai/HAL_projects/Bluepill-HAL/CMakeFiles/rebuild_cache.dir
+/home/putra/krai/HAL_projects/Bluepill-HAL/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+/home/putra/krai/HAL_projects/Bluepill-HAL/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
